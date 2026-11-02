@@ -2,13 +2,13 @@
 title: Summary
 ---
 
-# PROJECT NAME
+# Doom Camp 2027
 
 ![A photo of the project](images/hero.jpg)
 
 **Status:** Idea <!-- Pick one: Idea · Prototype · Working · Done · Retired -->
 
-**Maker:** YOUR NAME · Mars College Dept of Makers, 2027
+**Maker:** DooM · Mars College Dept of Makers, 2027
 
 ## Documentation
 
